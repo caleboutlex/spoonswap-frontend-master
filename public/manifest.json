@@ -1,0 +1,15 @@
+{
+  "short_name": "SpoonSwap",
+  "name": "Spoon everything out your investment",
+  "icons": [
+    {
+      "src": "favicon1.png",
+      "type": "image/png",
+      "sizes": "240x240"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
